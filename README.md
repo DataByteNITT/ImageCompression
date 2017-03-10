@@ -17,4 +17,4 @@ We have used a standard 512x512 image of Lena with a size of 473.8 kB to test ou
 
 
 
-However , the compression is far from perfect since , the encoding stage takes some time run the K-Means algorithm on the image for larger images or larger number of clusters.
+However , the compression is far from perfect since the encoding stage takes some time run the K-Means algorithm on the image for larger images or larger number of clusters.
