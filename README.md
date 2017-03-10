@@ -10,7 +10,9 @@ In the decoding stage, the image is simply reconstructed and reshaped into the o
 
 
 We have used a standard 512x512 image of Lena with a size of 473.8 kB to test our compression. During the encoding stage, our "compressed.npz" had a size of 131.9 kB which outperformed several popular compression methods such as 
+
 1. https://compressor.io which produced an image of 190 kB
+
 2. http://compresspng.com/ which produced an image of 176.8 kB and few others.
 
 
