@@ -18,7 +18,7 @@ We have used a standard 512x512 image of Lenna with a size of 473.8 kB to test o
 
 A visual representation of the data contained in "compressed.npz"
 
-https://github.com/PaiAkshay998/ImageCompression/blob/master/Visual_representation_of_compressed_file.png
+./Visual_representation_of_compressed_file.png
 
 
 However , the compression is far from perfect since the encoding stage takes some time run the K-Means algorithm on the image for larger images or larger number of clusters. Also , the maximum number of centroids is restricted to 255 ( uint8 ).
