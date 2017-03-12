@@ -34,4 +34,4 @@ We have used a standard 512x512 image of Lenna with a size of 473.8 kB to test o
 
 <img src="https://github.com/PaiAkshay998/ImageCompression/blob/master/JPG_reconstruction.jpg?raw=true" width="250px" height="250px">
 
-However , the compression is far from perfect since the encoding stage takes some time run the K-Means algorithm on the image for larger images or larger number of clusters. Also , the maximum number of centroids is restricted to 255 ( uint8 ).
+However , the compression is far from perfect since the encoding stage takes some time run the K-Means algorithm on the image for larger images or larger number of clusters.
